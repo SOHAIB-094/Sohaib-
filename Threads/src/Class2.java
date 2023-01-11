@@ -5,6 +5,7 @@ public class Class2 implements Runnable{
 	@Override
 	public void run() {
 		System.out.println("Thread is running");
+		System.out.println("Program has started");
 
 		
 	}
